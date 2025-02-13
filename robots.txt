@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Rumah-Berita.github.io/News/sitemap.xml
